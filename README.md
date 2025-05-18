@@ -4,7 +4,8 @@ ChefDelivery é um projeto educacional desenvolvido em SwiftUI que simula a inte
 
 ## 🖼️ Captura de Tela
 
-![Screenshot do ChefDelivery](assets/screenshot.png)
+
+![Screenshot do ChefDelivery](![Captura de Tela 2025-05-18 às 16 01 02](https://github.com/user-attachments/assets/b870e467-2505-4c3d-930d-387cfdd5f99a))
 
 ## 🚀 Funcionalidades
 
