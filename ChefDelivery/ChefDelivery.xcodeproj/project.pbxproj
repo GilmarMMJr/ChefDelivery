@@ -15,6 +15,10 @@
 		80C416952DC9430300BA145B /* ChefDeliveryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C416942DC9430300BA145B /* ChefDeliveryUITests.swift */; };
 		80C416972DC9430300BA145B /* ChefDeliveryUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C416962DC9430300BA145B /* ChefDeliveryUITestsLaunchTests.swift */; };
 		80C416A62DC9466F00BA145B /* NavigationBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C416A52DC9466F00BA145B /* NavigationBar.swift */; };
+		80C416A92DC952AA00BA145B /* OrderTypeGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C416A82DC952AA00BA145B /* OrderTypeGridView.swift */; };
+		80C416AC2DCAE86F00BA145B /* OrderType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C416AB2DCAE86F00BA145B /* OrderType.swift */; };
+		80C416AE2DCAE8E200BA145B /* DataSourceMock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C416AD2DCAE8E200BA145B /* DataSourceMock.swift */; };
+		80C416B02DCAF3A700BA145B /* OrderTypeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C416AF2DCAF3A700BA145B /* OrderTypeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +50,10 @@
 		80C416942DC9430300BA145B /* ChefDeliveryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChefDeliveryUITests.swift; sourceTree = "<group>"; };
 		80C416962DC9430300BA145B /* ChefDeliveryUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChefDeliveryUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		80C416A52DC9466F00BA145B /* NavigationBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBar.swift; sourceTree = "<group>"; };
+		80C416A82DC952AA00BA145B /* OrderTypeGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderTypeGridView.swift; sourceTree = "<group>"; };
+		80C416AB2DCAE86F00BA145B /* OrderType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderType.swift; sourceTree = "<group>"; };
+		80C416AD2DCAE8E200BA145B /* DataSourceMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSourceMock.swift; sourceTree = "<group>"; };
+		80C416AF2DCAF3A700BA145B /* OrderTypeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderTypeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,7 +105,9 @@
 			isa = PBXGroup;
 			children = (
 				80C416A32DC9462200BA145B /* App */,
+				80C416AA2DCAE85300BA145B /* Model */,
 				80C416A42DC9463300BA145B /* NavigatonBar */,
+				80C416A72DC9527400BA145B /* GridView */,
 				80C4167D2DC9430300BA145B /* Assets.xcassets */,
 				80C4167F2DC9430300BA145B /* Preview Content */,
 			);
@@ -144,6 +154,24 @@
 				80C416A52DC9466F00BA145B /* NavigationBar.swift */,
 			);
 			path = NavigatonBar;
+			sourceTree = "<group>";
+		};
+		80C416A72DC9527400BA145B /* GridView */ = {
+			isa = PBXGroup;
+			children = (
+				80C416A82DC952AA00BA145B /* OrderTypeGridView.swift */,
+				80C416AF2DCAF3A700BA145B /* OrderTypeView.swift */,
+			);
+			path = GridView;
+			sourceTree = "<group>";
+		};
+		80C416AA2DCAE85300BA145B /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				80C416AB2DCAE86F00BA145B /* OrderType.swift */,
+				80C416AD2DCAE8E200BA145B /* DataSourceMock.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -276,7 +304,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				80C416AC2DCAE86F00BA145B /* OrderType.swift in Sources */,
 				80C4167C2DC9430100BA145B /* ContentView.swift in Sources */,
+				80C416AE2DCAE8E200BA145B /* DataSourceMock.swift in Sources */,
+				80C416B02DCAF3A700BA145B /* OrderTypeView.swift in Sources */,
+				80C416A92DC952AA00BA145B /* OrderTypeGridView.swift in Sources */,
 				80C4167A2DC9430100BA145B /* ChefDeliveryApp.swift in Sources */,
 				80C416A62DC9466F00BA145B /* NavigationBar.swift in Sources */,
 			);
