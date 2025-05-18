@@ -67,7 +67,7 @@ O curso "iOS com SwiftUI: construindo componentes e layouts" da Alura é um prog
 ## 🖼️ Captura de Tela
 
 
-(![Captura de Tela 2025-05-18 às 16 01 02](https://github.com/user-attachments/assets/b870e467-2505-4c3d-930d-387cfdd5f99a))
+![Captura de Tela 2025-05-18 às 16 01 02](https://github.com/user-attachments/assets/b870e467-2505-4c3d-930d-387cfdd5f99a)
 
 ## 📄 Licença
 
