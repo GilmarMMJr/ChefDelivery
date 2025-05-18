@@ -2,11 +2,6 @@
 
 ChefDelivery é um projeto educacional desenvolvido em SwiftUI que simula a interface de um aplicativo de delivery de comida. O foco principal é o aprendizado prático de layouts e componentes em SwiftUI, demonstrando como criar uma interface moderna e responsiva. Este projeto foi desenvolvido como parte do curso "iOS com SwiftUI: construindo componentes e layouts" da Alura.
 
-## 🖼️ Captura de Tela
-
-
-![Screenshot do ChefDelivery](![Captura de Tela 2025-05-18 às 16 01 02](https://github.com/user-attachments/assets/b870e467-2505-4c3d-930d-387cfdd5f99a))
-
 ## 🚀 Funcionalidades
 
 - Interface moderna e intuitiva
@@ -68,6 +63,11 @@ O curso "iOS com SwiftUI: construindo componentes e layouts" da Alura é um prog
 - Boas práticas de desenvolvimento iOS
 - Integração de diferentes componentes
 - Desenvolvimento de interfaces responsivas
+
+## 🖼️ Captura de Tela
+
+
+(![Captura de Tela 2025-05-18 às 16 01 02](https://github.com/user-attachments/assets/b870e467-2505-4c3d-930d-387cfdd5f99a))
 
 ## 📄 Licença
 
